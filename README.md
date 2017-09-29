@@ -1,4 +1,4 @@
-Project Directory
+# Project Directory
 
 [Personal Website](https://github.com/MarinaMcGrath/personal-website)
 
