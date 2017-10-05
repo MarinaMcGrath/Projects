@@ -6,4 +6,6 @@ Rendered on the server
 [Server-side Rendering with React](https://github.com/MarinaMcGrath/ssr-app)
 
 [Idea Board](https://github.com/MarinaMcGrath/ideaboard)
-Ruby on Rails back end, React front end
+
+[Idea Board Api](https://github.com/MarinaMcGrath/ideaboard-api)
+Ruby on Rails 
